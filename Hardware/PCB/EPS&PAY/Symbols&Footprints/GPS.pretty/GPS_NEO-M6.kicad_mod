@@ -1,0 +1,129 @@
+(footprint "GPS_NEO-M6"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "U14"
+		(at 0.11 -7.94 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "d78892f7-334f-4715-b068-a9fdd4a0d94c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "~"
+		(at 1.83 -6.48 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d58037da-05e2-4298-9e6f-f26caeb7960b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "555ff45b-c7a1-453b-9718-71bbf8318640")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "66730d96-433f-4581-84ef-52621bacd228")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "placa_samauma.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -2.68 -5.7)
+		(end 3.52 6.38)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "4ae1d798-0ea4-4d6c-8e9e-bcda30a483eb")
+	)
+	(fp_text user "GPS_NEO-M6"
+		(at 2.48 5.23 90)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "a2516bcc-61e0-4851-9db0-a264c55f4894")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.08 -6.63 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "038f387f-59c9-4c19-8a74-fefdd4139c81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -0.13 -3.62)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "05142056-f638-4f80-8af3-c94a78eab950")
+	)
+	(pad "2" thru_hole circle
+		(at -0.13 -1.08)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "954c8e2e-76b4-446d-8741-b65acf434798")
+	)
+	(pad "3" thru_hole circle
+		(at -0.13 1.46)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "57973ec2-45bf-4e37-9990-54ecd6da17a6")
+	)
+	(pad "4" thru_hole circle
+		(at -0.13 3.91)
+		(size 1.8 1.8)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6596a089-d65b-43a3-9af7-631e11e81f15")
+	)
+	(embedded_fonts no)
+)

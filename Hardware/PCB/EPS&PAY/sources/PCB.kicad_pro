@@ -673,7 +673,7 @@
           "show": false
         }
       ],
-      "filter_string": "",
+      "filter_string": "R",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -721,7 +721,7 @@
         "uuid": "ebc0af11-4757-422b-8f60-80679a57ff22"
       }
     ],
-    "used_designators": "",
+    "used_designators": "M1-4",
     "variants": []
   },
   "sheets": [

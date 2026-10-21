@@ -1,5 +1,6 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "GPS") (type "KiCad") (uri "C:/Workspace/Projetos/SAMAUMA-FASE04/Hardware/PCB/EPS&PAY/Symbols&Footprints/GPS.pretty") (options "") (descr ""))
-	(lib (name "EPS&PAY") (type "KiCad") (uri "C:/Users/Usuario/Desktop/SAMAUMA-Fase-4-obsat/Hardware/PCB/EPS&PAY") (options "") (descr ""))
+	(lib (name "Symbols&Footprints") (type "KiCad") (uri "C:/Users/Usuario/Desktop/SAMAUMA-Fase-4-obsat-EPS/Hardware/PCB/EPS&PAY/Symbols&Footprints") (options "") (descr ""))
+	(lib (name "EPS_PAY-Footprints") (type "KiCad") (uri "C:/Users/Usuario/Desktop/SAMAUMA-Fase-4-obsat-EPS/Hardware/PCB/EPS&PAY/Symbols&Footprints/EPS_PAY-Footprints") (options "") (descr ""))
 )

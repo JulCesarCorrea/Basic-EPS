@@ -766,7 +766,7 @@
           "show": false
         }
       ],
-      "filter_string": "R",
+      "filter_string": "U",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
@@ -814,7 +814,7 @@
         "uuid": "ebc0af11-4757-422b-8f60-80679a57ff22"
       }
     ],
-    "used_designators": "M1-4",
+    "used_designators": "U12,M1-4,#PWR10,#PWR74,#PWR94-98",
     "variants": []
   },
   "sheets": [
